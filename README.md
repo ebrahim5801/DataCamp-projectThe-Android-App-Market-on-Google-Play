@@ -1,5 +1,4 @@
-# DataCamp-The-Android-App-Market-on-Google-Play
-DataCamp project "The Android App Market on Google Play"
+# DataCamp The Android App Market on GooglePlay
 
 
 ## Project Description
